@@ -39,7 +39,7 @@ public class TimeServlet extends HttpServlet {
                 default:
                     resp.sendError(400, "Город не найден. Доступны Минск, Вашингот, Пекин");
                     return;
-            };
+            }
 
             LocalDateTime now = LocalDateTime.now(zone);
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss dd.MM.yyyy");
