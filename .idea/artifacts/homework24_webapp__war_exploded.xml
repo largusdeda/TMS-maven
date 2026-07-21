@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="homework24-webapp: war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/homework24_webapp__war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="homework24" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
