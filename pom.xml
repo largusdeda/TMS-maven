@@ -15,6 +15,11 @@
         <module>homework23</module>
     </modules>
 
+    <packaging>pom</packaging>
+    <modules>
+        <module>homework26</module>
+    </modules>
+
     <properties>
         <maven.compiler.source>25</maven.compiler.source>
         <maven.compiler.target>25</maven.compiler.target>
