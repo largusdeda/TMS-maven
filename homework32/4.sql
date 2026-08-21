@@ -1,0 +1,3 @@
+SELECT *
+FROM employees
+WHERE salary BETWEEN 8000 AND 9000;
